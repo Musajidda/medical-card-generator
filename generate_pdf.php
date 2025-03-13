@@ -2,15 +2,16 @@
 //============================================================+
 // File name   : example_006.php
 // Begin       : 2008-03-04
-// Last Update : 2013-05-14
+// Last Update : 2025-02-14
 //
 // Description : Example 006 for TCPDF class
 //               WriteHTML and RTL support
+
 //
-// Author: Nicola Asuni
+// Author: Musajidda
 //
 // (c) Copyright:
-//               Nicola Asuni
+//               Musajidda
 //               Tecnick.com LTD
 //               www.tecnick.com
 //               info@tecnick.com
@@ -20,7 +21,7 @@
  * Creates an example PDF TEST document using TCPDF
  * @package com.tecnick.tcpdf
  * @abstract TCPDF - Example: WriteHTML and RTL support
- * @author Nicola Asuni
+ * @author Musajidda
  * @since 2008-03-04
  */
 

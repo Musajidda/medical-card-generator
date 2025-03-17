@@ -30,7 +30,7 @@ require_once('./assets/TCPDF/tcpdf.php');
 if(!defined('base_app')) define('base_app', str_replace('\\','/',__DIR__).'/' );
 class MYPDF extends TCPDF {
     //Page header
-    public function Header() {
+    public function header() {
         // Logo
         $image_file = base_app.'assets/img/medical-logo.png';
         // print($image_file);exit;
